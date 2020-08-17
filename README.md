@@ -1,5 +1,5 @@
-Julian Ruiz
-Industrial, Web & UI/UX Designer.
+<h2><strong>Julian Ruiz</strong></h2><br>
+<h3>Industrial, Web & UI/UX Designer.</h3>
 
 
 It’s me, Julián Ruiz, passionate about design, illustration, and code. I love to change environments, learn and explore new horizons exploiting my skills and challenge myself.
@@ -12,7 +12,7 @@ I am helpful, generous and resilient under stress, I work with initiative, commi
 
 
 
-Education
+<h4>Education</h4>
 ALGONQUIN COLLEGE.
 Interactive Media Management. Postgraduate-Certificate.
 English for Academic Purposes. Certificate.
@@ -25,7 +25,7 @@ Design and Marketing of Web Sites. Certificate.
 
 
 
-Work Experience
+<h4>Work Experience</h4>
 DESIGNER / PROJECT MANAGER.
 Dausos (Ottawa, Ontario – Bogota, Colombia).
 
