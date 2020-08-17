@@ -1,16 +1,54 @@
-### Hi there 👋
+Julian Ruiz
+Industrial, Web & UI/UX Designer.
 
-<!--
-**jarbdesign/jarbdesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+It’s me, Julián Ruiz, passionate about design, illustration, and code. I love to change environments, learn and explore new horizons exploiting my skills and challenge myself.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The design shows me the way to the physical and virtual world.
+The illustration shows me my thoughts and ideas.
+The code recreates the bases.
+I am helpful, generous and resilient under stress, I work with initiative, commitment, and empathy for the effective fulfillment of the project at hand. I am consistently observant and punctual, and I adopt my work with a good attitude. As a team player, creative and innovative individual, I bring with me just short of 5 years of experience in industrial and web design.
+
+
+
+
+Education
+ALGONQUIN COLLEGE.
+Interactive Media Management. Postgraduate-Certificate.
+English for Academic Purposes. Certificate.
+
+JAVERIANA PONTIFICAL UNIVERSITY.
+Industrial Design with Specialization in Web and Graphic Design. Diploma.
+
+JORGE TADEO LOZANO UNIVERSITY.
+Design and Marketing of Web Sites. Certificate.
+
+
+
+Work Experience
+DESIGNER / PROJECT MANAGER.
+Dausos (Ottawa, Ontario – Bogota, Colombia).
+
+INDUSTRIAL DESIGNER / PROJECT MANAGER.
+Grupo Imagina S.A.S (Bogota, Colombia).
+
+WEB DESIGNER / GRAPHIC DESIGNER.
+Canvas Seven / El Pizarron Digital (Bogota, Colombia).
+
+WEB DESIGNER / GRAPHIC DESIGNER.
+Ecolatino Digital (Ottawa, Ontario – Gatineau, Quebec).
+
+WEB DESIGNER / GRAPHIC DESIGNER.
+Centro Ático (Bogota, Colombia).
+
+
+- https://jarb.dausos.design/about-me/
+
+- https://www.linkedin.com/in/j-ruiz/
+
+- https://www.behance.net/jarb-design
+
+- https://dribbble.com/jarb-design
+
+- https://www.youtube.com/channel/UCT_kNG5zKXXikJhLvGLJHhA/
+
